@@ -4,7 +4,7 @@ title: "Network Visualizations: Koseoglu's (2014) Co-authorship network of SMJ"
 date: 2021-10-06
 ---
 
-I am always a bit gleeful when academics publish about their own. In this case, it's about the _Strategic Management Journal_.
+I am always a bit gleeful when academics publish about their own people. In this case, it's about the _Strategic Management Journal_ by [Koseoglu (2014)](https://www.sciencedirect.com/science/article/pii/S2340943616300019).
 I love this journal but have been warned multiple times that it is very...well, cliquey. This is all of academia though.
 I also love looking at the visualization of network dynamics. For my thesis, I had to do 'snap shots' like Koseoglu did.
 Here he chunked the data into phases (he didn't explicitly say how),
