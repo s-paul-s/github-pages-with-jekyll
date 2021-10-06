@@ -1,3 +1,3 @@
 ---
-title: "Notes about Networks"
+title:
 ---
