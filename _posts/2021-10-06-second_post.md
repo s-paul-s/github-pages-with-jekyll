@@ -6,6 +6,7 @@ date: 2021-10-06
 
 I haven't quite recovered from my 100 k word thesis, so here is a visualization of a multi-level network by [Lazega (2020)](https://www.researchgate.net/publication/348638258_Visualizing_Multilevel_Networks_for_the_Analysis_of_Superposed_Levels_of_Collective_Agency),
 
+<img src="img/lazega.png" alt="Lazega 2020 Multilevel"/>
 <!---![Lazega 2020 Multilevel](/img/lazega.png)--->
 
 Lazega (2020) writes,
