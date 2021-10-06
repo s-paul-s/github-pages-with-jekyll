@@ -1,5 +1,3 @@
 ---
-title: "Welcome to my blog"
+title: "Notes about Networks"
 ---
-
-I'm glad you are here. I plan to talk about ...
