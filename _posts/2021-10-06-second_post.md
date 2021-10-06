@@ -6,7 +6,7 @@ date: 2021-10-06
 
 I haven't quite recovered from my 100 k word thesis, so here is a visualization of a multi-level network by [Lazega (2020)](https://www.researchgate.net/publication/348638258_Visualizing_Multilevel_Networks_for_the_Analysis_of_Superposed_Levels_of_Collective_Agency),
 
-![Lazega 2020 Multilevel](/_img/lazega.png)
+![Lazega 2020 Multilevel](https://github.com/s-paul-s/notes-about-networks/blob/45c31f55e1151073e6749db0ec8d25412ae673f4/_img/lazega.png)
 
 Lazega (2020) writes,
 > "This is the inter-organizational network in which the ties are economic relationships (business deals) signed at time _t_ between companies (the nodes). The pattern represents a core-periphery structure. [...]
