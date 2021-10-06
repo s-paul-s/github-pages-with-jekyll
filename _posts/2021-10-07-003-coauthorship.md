@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Network Visualizations: Koseoglu's (2014) Co-authorship network of _SMJ_"
+title: "Network Visualizations: Koseoglu's (2014) Co-authorship network of SMJ"
 date: 2021-10-06
 ---
 
